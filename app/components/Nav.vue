@@ -4,10 +4,6 @@
   >
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex h-12 items-center justify-between">
-<<<<<<< HEAD
-=======
-        <!-- Logo -->
->>>>>>> ba3ebe00ba85a6f6548969c15612899cd845964b
         <div class="flex items-center space-x-4">
           <NuxtLink to="/" class="text-xl font-bold text-gray-900 dark:text-white"
             ><img
@@ -18,11 +14,6 @@
             />
           </NuxtLink>
         </div>
-<<<<<<< HEAD
-=======
-
-        <!-- Links desktop -->
->>>>>>> ba3ebe00ba85a6f6548969c15612899cd845964b
         <div class="relative w-full max-w-sm">
           <input
             v-model="query"
